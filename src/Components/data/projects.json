@@ -1,34 +1,10 @@
 [
   {
     "key": 1,
-    "title": "React E-Commerce",
-    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "key": 3,
-    "title": "React Recipe",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "key": 4,
-    "title": "React Firebase App",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Educity",
+    "imageSrc": "https://media-hosting.imagekit.io//975d6db0d8054b1e/hero.png?Expires=1831054633&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=qkI9l0B3Kp7sG7wSdDszOyis6zkUoXNZSqQLVKJHZqCR2fxf9CXujeVIHCPU6iPjgzryMGlN87UJ~6wkzWZ6wccMfn-LbKvLHuKH2ukTiuj5B6yZsGMIrrIY7pt2JRcWkCOOxNiZTTnsQsbBHaepOZNoAFyDW4P~QG1kOvUbLxb1fc27HeEIjfQs3VKfjzR3aoV3NmNi01vqF06nNqhpIGDfs6sFm1LJ7FULqzgxY1jsHSGJRsXUKFLPkxPQMUl56SKqOeorgUK27lBEZfh8vzxLcqgRyj3XgLo49a2N62t1o3BwgMdfdHIE~IGGKGSmzPmgHMN7-LdsKS~O5gpHSQ__",
+    "description": "The Educity project creates an innovative educational ecosystem with modern technologies, sustainable infrastructure, and a focus on preparing students for the future workforce.",
+    "demo": "https://www.kapwing.com/videos/67800fc0b8205dcd9c37d759",
+    "source": "https://github.com/RAJAPRADHAN242004/Edusity/tree/main/project/Educity"
   }
 ]

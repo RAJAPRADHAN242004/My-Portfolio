@@ -28,7 +28,7 @@ const Home = () => {
     <>
       <div className="container home" id="home">
         <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
-          <h1>"Welcome to my profile", "My name is Raja Pradhan"</h1>
+          <h1>"Welcome to my profile..." Hey, I'm Raja Pradhan</h1>
           <a
             href={pdf}
             download="resume.pdf"

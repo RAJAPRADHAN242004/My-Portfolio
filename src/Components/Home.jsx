@@ -4,26 +4,6 @@ import hero from "../assets/hero.png";
 import Typed from "typed.js";
 
 const Home = () => {
-  /* const typedRef = useEffect(null);
-  useEffect(() => {
-    const options = {
-      strings: [
-        "Welcome to my profile",
-        "My name is Raja Pradhan",
-        "I'm full stack developer",
-      ],
-      typeSpeed: 50,
-      backSpeed: 50,
-      loop: true,
-    };
-
-    const typed = new Typed(typedRef.current, options);
-
-    return () => {
-      typed.destroy();
-    };
-  }, []);*/
-
   return (
     <>
       <div className="container home" id="home">
@@ -48,5 +28,3 @@ const Home = () => {
 };
 
 export default Home;
-
-testing;
